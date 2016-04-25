@@ -2,6 +2,9 @@
 bin/
 bin-debug/
 bin-release/
+bower_components/
+/node_modules
+/npm-debug.log
 
 # Other files and folders
 .settings/
